@@ -1,0 +1,1 @@
+print('rabotai tvar')
